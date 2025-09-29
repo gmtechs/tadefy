@@ -2,7 +2,6 @@
 
 This project is a trading application built using Java Spring Boot, HTML, CSS, JavaScript, and MySQL. 
 
-
 ## Module
 <span style="color:blue">**User**</span><br>
 <span>&#9745;</span> User Account Management<br>
@@ -20,9 +19,7 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 <span>&#9745;</span> Charts for investment details <br>
 <span>&#9745;</span> Stop loss and gain for stocks using scheduler <br>
 
-
-
-
+]
 ## Technologies Used
 1. Front-End Development:
    - HTML 5
@@ -56,11 +53,6 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 - **Notifications and Alerts**: Real-time notifications and alerts to keep users updated on significant order statuses.
 - **Educational Resources**: Access to educational content and resources to help users understand trading concepts, market strategies, and the functionalities of the app.
 
-
-
-
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -71,17 +63,10 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 - Apache Maven
 - MySQL Workbench
 
-### Documentation 
-<a href="https://docs.google.com/document/d/1uDWNu_nVZg_WMPRmFp8GpiPK8FkmjQl9L7_3Mycwurc/edit?usp=sharing"> Trading App User Manual</a><br>
-<a href="https://docs.google.com/presentation/d/1T7-Wp_bDQAtGXZUVn_fbNRWOEe6S2-QqE0tqOGsPo98/edit?usp=sharing"> Trading App PPT</a>
-
 
 ### Installation
 
 1. **Clone the repository**:
-
-   ```sh 
-   https://git.chainsys.com/2024_java_batch/trading_application.git
 
 2.  **Database**:
     Run the sql script in mysql database 
@@ -92,6 +77,3 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 Open your browser and go to:
 ```sh
 http://localhost:9000 
-
-
-
